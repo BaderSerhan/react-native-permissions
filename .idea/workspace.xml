@@ -2,58 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="763fc028-1a3a-4cd7-860c-9fd232419516" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/CODE_OF_CONDUCT.md" beforeDir="false" afterPath="$PROJECT_DIR$/.github/CODE_OF_CONDUCT.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE.md" beforeDir="false" afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/.babelrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/.buckconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/.flowconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/.watchmanconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/__tests__/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/BUCK" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/java/com/example/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/java/com/example/MainApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/keystores/BUCK" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/keystores/debug.keystore.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Example-tvOS/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Example-tvOSTests/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Example.xcodeproj/project.pbxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Example.xcodeproj/xcshareddata/xcschemes/Example-tvOS.xcscheme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Example.xcodeproj/xcshareddata/xcschemes/Example.xcscheme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Example/AppDelegate.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Example/AppDelegate.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Example/Base.lproj/LaunchScreen.xib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Example/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Example/Images.xcassets/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Example/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Example/main.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/ExampleTests/ExampleTests.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/ExampleTests/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/permissions.android.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/permissions.android.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/permissions.ios.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/permissions.ios.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Permissions/RNPLocation.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Permissions/RNPLocation.m" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -68,11 +18,11 @@
     <session id="-816314507">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -96,7 +46,7 @@
           <entry key="h" value="1" />
           <entry key="js" value="15" />
           <entry key="json" value="77" />
-          <entry key="m" value="14" />
+          <entry key="m" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -104,13 +54,26 @@
           <entry key="C++" value="1" />
           <entry key="JSON" value="77" />
           <entry key="JavaScript" value="15" />
+          <entry key="Mathematica" value="1" />
           <entry key="PLAIN_TEXT" value="14" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ios/Permissions/RNPLocation.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="48" column="16" lean-forward="true" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -129,6 +92,8 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/lib/permissions.ios.js" />
         <option value="$PROJECT_DIR$/lib/permissions.android.js" />
+        <option value="$PROJECT_DIR$/ios/Permissions/RNPAudioVideo.m" />
+        <option value="$PROJECT_DIR$/ios/Permissions/RNPLocation.m" />
       </list>
     </option>
   </component>
@@ -157,10 +122,10 @@
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1173" />
-    <option name="height" value="803" />
+    <option name="height" value="797" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -226,15 +191,16 @@
       <workItem from="1538994342577" duration="824000" />
       <workItem from="1538996720635" duration="68000" />
       <workItem from="1538997347149" duration="96000" />
-      <workItem from="1539003015761" duration="294000" />
+      <workItem from="1539003015761" duration="367000" />
+      <workItem from="1539675152345" duration="1073000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1282000" />
+    <option name="totallyTimeSpent" value="2428000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1173" height="803" extended-state="1" />
+    <frame x="0" y="23" width="1173" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -251,7 +217,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32911393" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.11347517" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -310,6 +276,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Permissions/RNPAudioVideo.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Permissions/RNPLocation.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="16" lean-forward="true" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
         </state>
       </provider>
     </entry>
