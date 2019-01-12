@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="763fc028-1a3a-4cd7-860c-9fd232419516" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ReactNativePermissions.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/ReactNativePermissions.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/ReactNativePermissions.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/ReactNativePermissions.xcodeproj/project.pbxproj" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,28 +18,37 @@
     <session id="-816314507">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="h" value="10" />
-          <entry key="js" value="3" />
-          <entry key="json" value="3" />
-          <entry key="m" value="10" />
+          <entry key="LICENSE" value="1" />
+          <entry key="flowconfig" value="1" />
+          <entry key="gitignore" value="1" />
+          <entry key="h" value="12" />
+          <entry key="js" value="6" />
+          <entry key="json" value="4" />
+          <entry key="m" value="12" />
+          <entry key="npmignore" value="1" />
+          <entry key="pbxproj" value="2" />
+          <entry key="podspec" value="1" />
+          <entry key="prettierignore" value="1" />
+          <entry key="prettierrc" value="1" />
+          <entry key="xcworkspacedata" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C++" value="10" />
-          <entry key="JSON" value="3" />
-          <entry key="JavaScript" value="3" />
-          <entry key="Mathematica" value="6" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="C++" value="12" />
+          <entry key="JSON" value="5" />
+          <entry key="JavaScript" value="6" />
+          <entry key="Mathematica" value="8" />
+          <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -48,6 +57,7 @@
           <entry key="js" value="15" />
           <entry key="json" value="77" />
           <entry key="m" value="20" />
+          <entry key="pbxproj" value="49" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -56,7 +66,7 @@
           <entry key="JSON" value="77" />
           <entry key="JavaScript" value="15" />
           <entry key="Mathematica" value="6" />
-          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="PLAIN_TEXT" value="63" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -66,10 +76,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ios/ReactNativePermissions.m">
+        <entry file="file://$PROJECT_DIR$/ios/ReactNativePermissions.xcodeproj/project.pbxproj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="100" column="4" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="4" />
+            <state relative-caret-position="-1743">
+              <caret line="156" column="65" selection-start-line="156" selection-start-column="65" selection-end-line="156" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -98,6 +108,7 @@
         <option value="$PROJECT_DIR$/ios/Permissions/RNPAudioVideo.m" />
         <option value="$PROJECT_DIR$/ios/Permissions/RNPLocation.m" />
         <option value="$PROJECT_DIR$/ios/ReactNativePermissions.m" />
+        <option value="$PROJECT_DIR$/ios/ReactNativePermissions.xcodeproj/project.pbxproj" />
       </list>
     </option>
   </component>
@@ -156,6 +167,12 @@
               <item name="ios" type="462c0819:PsiDirectoryNode" />
               <item name="Permissions" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="react-native-permissions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-native-permissions" type="462c0819:PsiDirectoryNode" />
+              <item name="ios" type="462c0819:PsiDirectoryNode" />
+              <item name="ReactNativePermissions.xcodeproj" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -198,12 +215,13 @@
       <workItem from="1539003015761" duration="367000" />
       <workItem from="1539675152345" duration="1199000" />
       <workItem from="1539688348542" duration="827000" />
-      <workItem from="1539689762791" duration="111000" />
+      <workItem from="1539689762791" duration="140000" />
+      <workItem from="1547297071270" duration="381000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3492000" />
+    <option name="totallyTimeSpent" value="3902000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1173" height="797" extended-state="0" />
@@ -223,7 +241,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2680851" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.26666668" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -236,27 +254,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/permissions.android.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-821">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/permissions.ios.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ios/Permissions/RNPAudioVideo.m">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -293,10 +290,24 @@
         <state relative-caret-position="-135" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ios/ReactNativePermissions.xcodeproj/project.xcworkspace/contents.xcworkspacedata">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ios/RCTConvert+RNPStatus.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/RCTConvert+RNPStatus.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="28" column="2" lean-forward="true" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -307,17 +318,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ios/RCTConvert+RNPStatus.h">
+    <entry file="file://$PROJECT_DIR$/ios/ReactNativePermissions.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="2" lean-forward="true" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+        <state relative-caret-position="667">
+          <caret line="99" column="19" lean-forward="true" selection-start-line="99" selection-start-column="19" selection-end-line="99" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ios/ReactNativePermissions.m">
+    <entry file="file://$PROJECT_DIR$/lib/permissions.android.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="100" column="4" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="4" />
+        <state relative-caret-position="-1015">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReactNativePermissions.podspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.prettierrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.prettierignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.npmignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.flowconfig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/permissions.ios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-835">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/ReactNativePermissions.xcodeproj/project.pbxproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1743">
+          <caret line="156" column="65" selection-start-line="156" selection-start-column="65" selection-end-line="156" selection-end-column="65" />
         </state>
       </provider>
     </entry>
