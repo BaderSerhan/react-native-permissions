@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="763fc028-1a3a-4cd7-860c-9fd232419516" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/ReactNativePermissions.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/ReactNativePermissions.xcodeproj/project.pbxproj" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,11 +17,11 @@
     <session id="-816314507">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -31,6 +30,7 @@
           <entry key="js" value="3" />
           <entry key="json" value="3" />
           <entry key="m" value="10" />
+          <entry key="pbxproj" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -39,7 +39,7 @@
           <entry key="JSON" value="3" />
           <entry key="JavaScript" value="3" />
           <entry key="Mathematica" value="6" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -48,6 +48,7 @@
           <entry key="js" value="15" />
           <entry key="json" value="77" />
           <entry key="m" value="20" />
+          <entry key="pbxproj" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -56,7 +57,7 @@
           <entry key="JSON" value="77" />
           <entry key="JavaScript" value="15" />
           <entry key="Mathematica" value="6" />
-          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -88,6 +89,7 @@
         <option value="$PROJECT_DIR$/ios/Permissions/RNPAudioVideo.m" />
         <option value="$PROJECT_DIR$/ios/Permissions/RNPLocation.m" />
         <option value="$PROJECT_DIR$/ios/ReactNativePermissions.m" />
+        <option value="$PROJECT_DIR$/ios/ReactNativePermissions.xcodeproj/project.pbxproj" />
       </list>
     </option>
   </component>
@@ -135,23 +137,6 @@
               <item name="react-native-permissions" type="b2602c69:ProjectViewProjectNode" />
               <item name="react-native-permissions" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="react-native-permissions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-native-permissions" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react-native-permissions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-native-permissions" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-              <item name="Permissions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react-native-permissions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-native-permissions" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-              <item name="ReactNativePermissions.xcodeproj" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -195,11 +180,12 @@
       <workItem from="1539675152345" duration="1199000" />
       <workItem from="1539688348542" duration="827000" />
       <workItem from="1539689762791" duration="111000" />
+      <workItem from="1547299824577" duration="32000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3540000" />
+    <option name="totallyTimeSpent" value="4044000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1173" height="797" extended-state="0" />
@@ -218,7 +204,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.26666668" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.26666668" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -313,6 +299,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
           <caret line="100" column="4" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/ReactNativePermissions.xcodeproj/project.pbxproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
