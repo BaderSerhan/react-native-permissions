@@ -1,1 +1,3 @@
 example/
+ios/Permissions/RNPBackgroundRefresh.h
+ios/Permissions/RNPBackgroundRefresh.m
