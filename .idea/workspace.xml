@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="763fc028-1a3a-4cd7-860c-9fd232419516" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-    </list>
+    <list default="true" id="763fc028-1a3a-4cd7-860c-9fd232419516" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -22,7 +20,7 @@
       <find>contacts</find>
       <find>RNPContacts</find>
       <find>Event</find>
-      <find>motion</find>
+      <find>MediaLib</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -78,17 +76,6 @@
               <item name="react-native-permissions" type="462c0819:PsiDirectoryNode" />
               <item name="ios" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="react-native-permissions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-native-permissions" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-              <item name="Permissions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react-native-permissions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-native-permissions" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -136,16 +123,17 @@
       <workItem from="1539688348542" duration="827000" />
       <workItem from="1539689762791" duration="111000" />
       <workItem from="1547299824577" duration="32000" />
+      <workItem from="1547464912148" duration="71000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4295000" />
+    <option name="totallyTimeSpent" value="4115000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1173" height="797" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -159,7 +147,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.26666668" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.26666668" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
